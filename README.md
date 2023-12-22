@@ -73,7 +73,7 @@ class Skills extends Desenvolvedor {
 ## Contatos
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira, pode entrar em contato comigo via: ⤵️
 </p>
 <p align="left">
   <a href="mailto:grsantos2215@gmail.com" title="Gmail" target="_blank">
