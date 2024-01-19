@@ -1,36 +1,36 @@
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-<h2 align="left">Olá, sou Gabriel!</h2>
+<h2 align="left">Hi, I'm Gabriel!</h2>
 <p align="left"> 
-  Sou Web Full-Stack Developer.
+  I'm Web Full-Stack Developer.
 </p>
 <p align="left"> 
   <br />
-  Atualmente estou estudando sobre Inteligência Artificial e sistemas em tempo real, buscando me aprimorar no desenvolvimento web cada vez mais.
+  I'm currently studying Artificial Intelligence and real-time systems, trying to improve myself in web development more and more.
 </p>
 </div>
 
-## Um pouco sobre mim
+## A little about me
 
   ```js
-import Desenvolvedor from "grsantos2215";
+import Developer from "grsantos2215";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Gabriel Ferraz dos Santos";
-  area = "Programador Pl";
-  trabalho = "Yooper Digital Marketing";
-  local = "Remoto";
+class AboutMe extends Developer {
+  name = "Gabriel Ferraz dos Santos";
+  area = "Developer Pl";
+  Job = "Yooper Digital Marketing";
+  local = "Remote";
 }
 
-class Skills extends Desenvolvedor {
-  conhecimento = ["PHP", "JavaScript", "SQL", "NoSQL", "HTML", "CSS", "GIT", "Linux", "APIs", "Android"];
-  bibliotecas = ["Next.js", "Nuxt.js", "Express.js", "Astro", "Elysia.js", "Tailwind"];
+class Skills extends Developer {
+  knowledge = ["PHP", "JavaScript", "SQL", "NoSQL", "HTML", "CSS", "GIT", "Linux", "APIs", "Android"];
+  libraries = ["Next.js", "Nuxt.js", "Express.js", "Astro", "Elysia.js", "Tailwind"];
   frameworks = ["Node.js", "React.js", "Flutter", "React-Native"];
 }
 ```
 
-## Linguagens e ferramentas
+## Languages and tools
 
 <code><img
     height="30"
@@ -70,14 +70,14 @@ class Skills extends Desenvolvedor {
     alt="Logo CSS"/></code>
 
 
-## Contatos
+## Contacts
 
 <p align="left">
-  💌 Caso queira, pode entrar em contato comigo via: ⤵️
+  💌 If you want, you can contact me via: ⤵️
 </p>
 <p align="left">
   <a href="mailto:grsantos2215@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gabriel-ferraz-dos-santos-195355156/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
